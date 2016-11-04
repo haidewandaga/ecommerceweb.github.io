@@ -19,6 +19,10 @@ html {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
+.letter{
+color: white;
+}
+
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
