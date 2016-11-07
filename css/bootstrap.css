@@ -28,6 +28,9 @@ html {
 body {
   margin: 0;
 }
+.details{
+  text-align: left;
+}
 article,
 aside,
 details,
